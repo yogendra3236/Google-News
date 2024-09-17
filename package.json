@@ -10,21 +10,21 @@
     "prepare": "npm run snyk-protect"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.28",
-    "@fortawesome/free-solid-svg-icons": "^5.13.0",
-    "@fortawesome/react-fontawesome": "^0.1.9",
-    "antd": "^4.1.4",
-    "isomorphic-unfetch": "^3.0.0",
-    "next": "10.0.7",
-    "next-images": "^1.4.0",
-    "prop-types": "^15.7.2",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-infinite-scroller": "^1.2.4",
-    "react-lazy-load-image-component": "^1.4.3",
-    "react-scroll": "^1.7.16",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "antd": "^4.24.16",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "10.2.3",
+    "next-images": "^1.8.5",
+    "prop-types": "^15.8.1",
+    "react": "16.14.0",
+    "react-dom": "16.14.0",
+    "react-infinite-scroller": "^1.2.6",
+    "react-lazy-load-image-component": "^1.6.2",
+    "react-scroll": "^1.9.0",
     "react-timeago": "^4.4.0",
-    "snyk": "^1.359.1"
+    "snyk": "^1.1292.4"
   },
   "snyk": true
 }
